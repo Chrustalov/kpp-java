@@ -1,0 +1,84 @@
+- !!shop.Models.Product
+  name: Laptop
+  price: 1200.0
+  quantity: 10
+  suppliers:
+  - companyName: Supplier A
+    contractStartDate: null
+  - companyName: Supplier B
+    contractStartDate: null
+- !!shop.Models.Product
+  name: Smartphone
+  price: 800.0
+  quantity: 20
+  suppliers:
+  - companyName: Supplier C
+    contractStartDate: null
+- !!shop.Models.Product
+  name: Tablet
+  price: 400.0
+  quantity: 15
+  suppliers:
+  - companyName: Supplier D
+    contractStartDate: null
+  - companyName: Supplier E
+    contractStartDate: null
+- !!shop.Models.Product
+  name: Headphones
+  price: 150.0
+  quantity: 30
+  suppliers:
+  - companyName: Supplier A
+    contractStartDate: null
+  - companyName: Supplier B
+    contractStartDate: null
+- !!shop.Models.Product
+  name: Smartwatch
+  price: 200.0
+  quantity: 25
+  suppliers:
+  - companyName: Supplier C
+    contractStartDate: null
+- !!shop.Models.Product
+  name: Monitor
+  price: 300.0
+  quantity: 18
+  suppliers:
+  - companyName: Supplier D
+    contractStartDate: null
+  - companyName: Supplier E
+    contractStartDate: null
+- !!shop.Models.Product
+  name: Keyboard
+  price: 50.0
+  quantity: 50
+  suppliers:
+  - companyName: Supplier A
+    contractStartDate: null
+  - companyName: Supplier B
+    contractStartDate: null
+- !!shop.Models.Product
+  name: Mouse
+  price: 30.0
+  quantity: 60
+  suppliers:
+  - companyName: Supplier C
+    contractStartDate: null
+- !!shop.Models.Product
+  name: Printer
+  price: 150.0
+  quantity: 12
+  suppliers:
+  - companyName: Supplier D
+    contractStartDate: null
+  - companyName: Supplier E
+    contractStartDate: null
+- !!shop.Models.Product
+  name: Camera
+  price: 450.0
+  quantity: 8
+  suppliers:
+  - companyName: Supplier A
+    contractStartDate: null
+  - companyName: Supplier B
+    contractStartDate: null

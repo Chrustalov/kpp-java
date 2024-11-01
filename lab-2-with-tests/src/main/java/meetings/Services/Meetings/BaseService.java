@@ -14,7 +14,7 @@ import java.util.Map;
 
 public class BaseService {
   List<User> users;
-  ZoneId TimeZone = ZoneId.of("Europe/Kiev");
+  ZoneId TimeZone;
 
   public BaseService(List<User> users, ZoneId TimeZone) {
     this.users = users;
@@ -50,10 +50,10 @@ public class BaseService {
           .anyMatch(availability -> isWithinCommonTime(user, availability));
 
       if (!hasCommonTime) {
-        return false;
+        return true;
       }
     }
-    return true;
+    return false;
   }
 
   public boolean isWithinCommonTime(User user, AvailabilityTime targetAvailability) {

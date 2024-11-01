@@ -24,7 +24,7 @@ public class TimeTogetherService extends BaseService {
     for (DayOfWeek day : mergedAvailabilities.keySet()) {
       List<AvailabilityTime> dayAvailabilities = mergedAvailabilities.get(day);
 
-      if (!allUsersHaveTime(dayAvailabilities, day)) {
+      if (allUsersHaveTime(dayAvailabilities, day)) {
         continue;
       }
 

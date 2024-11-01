@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Laptop",
+    "quantity": 10,
+    "suppliers": [
+      {
+        "companyName": "Supplier A",
+        "contractStartDate": "2023-01-15"
+      },
+      {
+        "companyName": "Supplier B",
+        "contractStartDate": "2023-05-20"
+      }
+    ]
+  },
+  {
+    "name": "Smartphone",
+    "quantity": 20,
+    "suppliers": [
+      {
+        "companyName": "Supplier C",
+        "contractStartDate": "2023-02-10"
+      }
+    ]
+  },
+  {
+    "name": "Tablet",
+    "quantity": 15,
+    "suppliers": [
+      {
+        "companyName": "Supplier D",
+        "contractStartDate": "2023-03-05"
+      },
+      {
+        "companyName": "Supplier E",
+        "contractStartDate": "2023-04-12"
+      }
+    ]
+  },
+  {
+    "name": "Headphones",
+    "quantity": 30,
+    "suppliers": [
+      {
+        "companyName": "Supplier A",
+        "contractStartDate": "2023-01-15"
+      },
+      {
+        "companyName": "Supplier B",
+        "contractStartDate": "2023-05-20"
+      }
+    ]
+  },
+  {
+    "name": "Smartwatch",
+    "quantity": 25,
+    "suppliers": [
+      {
+        "companyName": "Supplier C",
+        "contractStartDate": "2023-02-10"
+      }
+    ]
+  },
+  {
+    "name": "Monitor",
+    "quantity": 18,
+    "suppliers": [
+      {
+        "companyName": "Supplier D",
+        "contractStartDate": "2023-03-05"
+      },
+      {
+        "companyName": "Supplier E",
+        "contractStartDate": "2023-04-12"
+      }
+    ]
+  },
+  {
+    "name": "Keyboard",
+    "quantity": 50,
+    "suppliers": [
+      {
+        "companyName": "Supplier A",
+        "contractStartDate": "2023-01-15"
+      },
+      {
+        "companyName": "Supplier B",
+        "contractStartDate": "2023-05-20"
+      }
+    ]
+  },
+  {
+    "name": "Mouse",
+    "quantity": 60,
+    "suppliers": [
+      {
+        "companyName": "Supplier C",
+        "contractStartDate": "2023-02-10"
+      }
+    ]
+  },
+  {
+    "name": "Printer",
+    "quantity": 12,
+    "suppliers": [
+      {
+        "companyName": "Supplier D",
+        "contractStartDate": "2023-03-05"
+      },
+      {
+        "companyName": "Supplier E",
+        "contractStartDate": "2023-04-12"
+      }
+    ]
+  },
+  {
+    "name": "Camera",
+    "quantity": 8,
+    "suppliers": [
+      {
+        "companyName": "Supplier A",
+        "contractStartDate": "2023-01-15"
+      },
+      {
+        "companyName": "Supplier B",
+        "contractStartDate": "2023-05-20"
+      }
+    ]
+  }
+]
