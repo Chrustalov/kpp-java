@@ -12,7 +12,6 @@ import java.util.List;
 
 public class SupplierReadDataService implements IRead<Supplier> {
     @Override
-    @SuppressWarnings("unchecked")
     public List<Supplier> ReadFromFile(String filename) {
         List<Supplier> suppliers = new ArrayList<>();
 

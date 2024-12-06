@@ -7,7 +7,7 @@ import com.google.gson.annotations.Expose;
 public class Product implements Serializable {
     @Expose
     private String name;
-    private double price;
+    private transient double price;
     @Expose
     private int quantity;
     @Expose
